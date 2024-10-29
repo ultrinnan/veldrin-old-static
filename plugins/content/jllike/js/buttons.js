@@ -496,7 +496,7 @@ jQuery.noConflict();
             },
 
             /*@properties*/
-            countServiceUrl: 'https://clients6.google.com/rpc?key=AIzaSyCKSbrvQasunBoV16zDH9R33D88CeLr9gQ'
+            countServiceUrl: 'https://clients6.google.com/rpc?key='
         });
 
     /***GOOGLE ***/////
