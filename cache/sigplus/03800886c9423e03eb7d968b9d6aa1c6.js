@@ -1,0 +1,1 @@
+__jQuery__("#sigplus_2e014f5a109d69c1d0bf1c6827b79b82").sigplusLinkage([["\/images\/maps\/Faerun.jpg","\/cache\/preview\/47afbc9b3f2d460a6e3f45424655864b.jpg",200,126,"\/cache\/thumbs\/54d020af3b62d2af607ad9a1d8d7ceb5.jpg","","","",null]],"boxplus-sigplus_2e014f5a109d69c1d0bf1c6827b79b82",0,false,"","");

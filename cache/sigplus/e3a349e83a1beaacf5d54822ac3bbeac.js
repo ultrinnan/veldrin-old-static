@@ -1,0 +1,1 @@
+__jQuery__("#sigplus_60e5463825dc27640d0de0ce1bd9714e").sigplusLinkage([["\/images\/hollofglory\/strela.jpg","\/cache\/preview\/95ba66db66367c2e17c9e32b934d7707.jpg",200,37,"\/cache\/thumbs\/14d10cfef469b419c6f5f6ed6b6960a9.jpg","","","",null]],"boxplus-sigplus_60e5463825dc27640d0de0ce1bd9714e",0,false,"","");

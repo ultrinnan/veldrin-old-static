@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="ru-ru">
+	<title type="text">Downloads</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://veldrin.pp.ua"/>
+	<id>https://veldrin.pp.ua/index.php/downloads</id>
+	<updated>2024-07-29T14:17:20+00:00</updated>
+	<author>
+		<name>veldrin</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://veldrin.pp.ua/index.php/downloads?format=feed&amp;type=atom"/>
+	<entry>
+		<title>МЕТОДИКА КРИМІНАЛІСТИЧНОГО ДОСЛІДЖЕННЯ ХОЛОДНОЇ ЗБРОЇ ТА КОНСТРУКТИВНО СХОЖИХ З НЕЮ ВИРОБІВ</title>
+		<link rel="alternate" type="text/html" href="https://veldrin.pp.ua/index.php/downloads/95-2014-05-29-23-08-51"/>
+		<published>2014-05-29T20:08:51+00:00</published>
+		<updated>2014-05-29T20:08:51+00:00</updated>
+		<id>https://veldrin.pp.ua/index.php/downloads/95-2014-05-29-23-08-51</id>
+		<author>
+			<name>FenikS</name>
+		</author>
+		<summary type="html">&lt;p&gt;Cтатья, которая несомненно станет полезной всем представителям реконструкторского и ролевого движения Украины. В ней Вы узнаете про те параметры, которыми НЕ должно обладать Ваше оружие, чтоб Вас не посадили :). Последние разделы посвящены стрелковому оружию, так что все лучники и арбалетчики должны ознакомиться!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://veldrin.pp.ua/download/metodika.zip&quot;&gt;документ Word&lt;/a&gt; (zip 49 Кб)&lt;/strong&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Cтатья, которая несомненно станет полезной всем представителям реконструкторского и ролевого движения Украины. В ней Вы узнаете про те параметры, которыми НЕ должно обладать Ваше оружие, чтоб Вас не посадили :). Последние разделы посвящены стрелковому оружию, так что все лучники и арбалетчики должны ознакомиться!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://veldrin.pp.ua/download/metodika.zip&quot;&gt;документ Word&lt;/a&gt; (zip 49 Кб)&lt;/strong&gt;&lt;/p&gt;</content>
+		<category term="Downloads" />
+	</entry>
+	<entry>
+		<title>Переводчик &quot;Drowlanguage&quot;</title>
+		<link rel="alternate" type="text/html" href="https://veldrin.pp.ua/index.php/downloads/94-translator"/>
+		<published>2014-05-29T20:06:17+00:00</published>
+		<updated>2014-05-29T20:06:17+00:00</updated>
+		<id>https://veldrin.pp.ua/index.php/downloads/94-translator</id>
+		<author>
+			<name>FenikS</name>
+		</author>
+		<summary type="html">&lt;p&gt;Небольшая програмка, которая является электронным словарем дровиша. Програмка не самая лучшая, и многих слов там нет, но в любом случае она будет многим полезна&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://veldrin.pp.ua/download/Drowlanguage.zip&quot;&gt;архив&lt;/a&gt; (zip 330 Кб)&lt;/strong&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Небольшая програмка, которая является электронным словарем дровиша. Програмка не самая лучшая, и многих слов там нет, но в любом случае она будет многим полезна&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://veldrin.pp.ua/download/Drowlanguage.zip&quot;&gt;архив&lt;/a&gt; (zip 330 Кб)&lt;/strong&gt;&lt;/p&gt;</content>
+		<category term="Downloads" />
+	</entry>
+	<entry>
+		<title>Генератор имен дроу</title>
+		<link rel="alternate" type="text/html" href="https://veldrin.pp.ua/index.php/downloads/93-drow-name-gen-file"/>
+		<published>2014-05-29T20:03:20+00:00</published>
+		<updated>2014-05-29T20:03:20+00:00</updated>
+		<id>https://veldrin.pp.ua/index.php/downloads/93-drow-name-gen-file</id>
+		<author>
+			<name>FenikS</name>
+		</author>
+		<summary type="html">&lt;p&gt;Оригинальное ДнДшное издание. Файлик позволяющий самостоятельно создать себе дровское имя, учитывая все правила и каноны создания. Можно создать имя с практически любым значением.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://veldrin.pp.ua/download/DrowName.zip&quot;&gt;архив&lt;/a&gt; (zip 13 Кб)&lt;/strong&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Оригинальное ДнДшное издание. Файлик позволяющий самостоятельно создать себе дровское имя, учитывая все правила и каноны создания. Можно создать имя с практически любым значением.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://veldrin.pp.ua/download/DrowName.zip&quot;&gt;архив&lt;/a&gt; (zip 13 Кб)&lt;/strong&gt;&lt;/p&gt;</content>
+		<category term="Downloads" />
+	</entry>
+	<entry>
+		<title>Автоматический генератор имен дроу v.1.3</title>
+		<link rel="alternate" type="text/html" href="https://veldrin.pp.ua/index.php/downloads/92-drow-name-gen"/>
+		<published>2014-05-29T20:01:33+00:00</published>
+		<updated>2014-05-29T20:01:33+00:00</updated>
+		<id>https://veldrin.pp.ua/index.php/downloads/92-drow-name-gen</id>
+		<author>
+			<name>FenikS</name>
+		</author>
+		<summary type="html">&lt;p&gt;Программа создана с целью капитально упростить жизнь игрокам, которые составляют себе дровское имя. &lt;br /&gt; Просто нажмите на кубик, и получите готовое имя (мужcкое/женское). &lt;br /&gt; Расшифровку имени см. в текстовом файле &quot;генератор имен дроу&quot; (фактически без него програмка мало чем полезна, ибо можно создать имя красивое на звучание, но жуткое по расшифровке ;))&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://veldrin.pp.ua/download/Drownamegen.zip&quot;&gt;архив&lt;/a&gt; (zip 288 Кб)&lt;/strong&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Программа создана с целью капитально упростить жизнь игрокам, которые составляют себе дровское имя. &lt;br /&gt; Просто нажмите на кубик, и получите готовое имя (мужcкое/женское). &lt;br /&gt; Расшифровку имени см. в текстовом файле &quot;генератор имен дроу&quot; (фактически без него програмка мало чем полезна, ибо можно создать имя красивое на звучание, но жуткое по расшифровке ;))&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://veldrin.pp.ua/download/Drownamegen.zip&quot;&gt;архив&lt;/a&gt; (zip 288 Кб)&lt;/strong&gt;&lt;/p&gt;</content>
+		<category term="Downloads" />
+	</entry>
+	<entry>
+		<title>Дровский алфавит</title>
+		<link rel="alternate" type="text/html" href="https://veldrin.pp.ua/index.php/downloads/91-drow-alphabet"/>
+		<published>2014-05-29T19:59:10+00:00</published>
+		<updated>2014-05-29T19:59:10+00:00</updated>
+		<id>https://veldrin.pp.ua/index.php/downloads/91-drow-alphabet</id>
+		<author>
+			<name>FenikS</name>
+		</author>
+		<summary type="html">&lt;p&gt;Наверняка многие поклонники темных эльфов не раз мечтали нанести себе на оружие или одежду слова-заклинания, или же расписать книгу заклинаний антуражными письменами. Теперь это все очень просто :)&lt;/p&gt;
+&lt;p&gt;В архиве файл PDF с очень подробным описанием всех букв, цифр и знаков препинания.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://veldrin.pp.ua/download/Drow%20Alphabet.zip&quot;&gt;архив&lt;/a&gt; (zip 16 Кб)&lt;/strong&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Наверняка многие поклонники темных эльфов не раз мечтали нанести себе на оружие или одежду слова-заклинания, или же расписать книгу заклинаний антуражными письменами. Теперь это все очень просто :)&lt;/p&gt;
+&lt;p&gt;В архиве файл PDF с очень подробным описанием всех букв, цифр и знаков препинания.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://veldrin.pp.ua/download/Drow%20Alphabet.zip&quot;&gt;архив&lt;/a&gt; (zip 16 Кб)&lt;/strong&gt;&lt;/p&gt;</content>
+		<category term="Downloads" />
+	</entry>
+	<entry>
+		<title>Дровские шрифты</title>
+		<link rel="alternate" type="text/html" href="https://veldrin.pp.ua/index.php/downloads/90-2014-05-29-22-54-10"/>
+		<published>2014-05-29T19:54:10+00:00</published>
+		<updated>2014-05-29T19:54:10+00:00</updated>
+		<id>https://veldrin.pp.ua/index.php/downloads/90-2014-05-29-22-54-10</id>
+		<author>
+			<name>FenikS</name>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;img src=&quot;https://veldrin.pp.ua/download/drow-font.jpg&quot; alt=&quot;&quot; width=&quot;484&quot; height=&quot;187&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Прекрасное дополнение к ранее выложеному Алфавиту - шрифты. Эти шрифты автоматически интегрируются в систему Windows, и вы сразу же сможете с ними работать в том же Word'е или Photoshop'е (не забывайте что шрифты созданы для англ. раскладки клавиатуры)&lt;/p&gt;
+&lt;p&gt;В архиве содержится 2 вида дровского шрифта - прописной (например для написания заклинаний в спелбуках) и клинопись (например для нанесения на оружие и доспехи)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://veldrin.pp.ua/download/shrifti.zip&quot;&gt;Скачать архив&lt;/a&gt; (zip 72 Кб)&lt;/strong&gt;&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://veldrin.pp.ua/download/drow-font.jpg&quot; alt=&quot;&quot; width=&quot;484&quot; height=&quot;187&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Прекрасное дополнение к ранее выложеному Алфавиту - шрифты. Эти шрифты автоматически интегрируются в систему Windows, и вы сразу же сможете с ними работать в том же Word'е или Photoshop'е (не забывайте что шрифты созданы для англ. раскладки клавиатуры)&lt;/p&gt;
+&lt;p&gt;В архиве содержится 2 вида дровского шрифта - прописной (например для написания заклинаний в спелбуках) и клинопись (например для нанесения на оружие и доспехи)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://veldrin.pp.ua/download/shrifti.zip&quot;&gt;Скачать архив&lt;/a&gt; (zip 72 Кб)&lt;/strong&gt;&lt;/p&gt;</content>
+		<category term="Downloads" />
+	</entry>
+</feed>

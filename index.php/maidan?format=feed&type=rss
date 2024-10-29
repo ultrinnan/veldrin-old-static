@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Центральная площадь</title>
+		<description><![CDATA[]]></description>
+		<link>https://veldrin.pp.ua/index.php/maidan</link>
+		<lastBuildDate>Mon, 29 Jul 2024 14:17:14 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://veldrin.pp.ua/index.php/maidan?format=feed&amp;type=rss"/>
+		<language>ru-ru</language>
+		<item>
+			<title>Закрытие клуба</title>
+			<link>https://veldrin.pp.ua/index.php/maidan/101-zakrytie-kluba</link>
+			<guid isPermaLink="true">https://veldrin.pp.ua/index.php/maidan/101-zakrytie-kluba</guid>
+			<description><![CDATA[<p>Осенью 2017 года текущий состав клуба ролевого моделирования Вэльдрин принял важное решение не продолжать более сложную концепцию королевства дроу эльфов, а создать на базе клуба нечто новое, более простое, удобное и удовлетворяющее потребностям текущего состава.</p>
+<p>Перед тем, как Феникс ушел с поста капитана, команда договорилась о том, что если концепция клуба будет меняться, то будет выбрано другое название, а концепция и идеи Королевства вернутся к их создателю. </p>
+<p>Так и произошло. За что всем больше спасибо.</p>
+<p>Клуб ролевого моделирования Вэльдрин прекратил свое существование.</p>
+<p>Королевство дроу эльфов горных рейнджеров будет жить в наших сердцах.</p>
+<p>Спасибо всем, кто был все эти годы с нами.</p>]]></description>
+			<category>Новости</category>
+			<pubDate>Mon, 12 Feb 2018 18:15:34 +0000</pubDate>
+		</item>
+		<item>
+			<title>Новые личные страницы вэльдринцев</title>
+			<link>https://veldrin.pp.ua/index.php/maidan/100-new-personal-pages</link>
+			<guid isPermaLink="true">https://veldrin.pp.ua/index.php/maidan/100-new-personal-pages</guid>
+			<description><![CDATA[<p>На сайте добавлены личные страницы с легендами наших сокомандников.</p>
+<p>Легенда Итиль - <a href="https://veldrin.pp.ua/club-members/11-internal/99-itil-personal">http://www.veldrin.kiev.ua/club-members/11-internal/99-itil-personal</a></p>
+<p>Легенда Тэтана - <a href="https://veldrin.pp.ua/club-members/11-internal/98-tetan-personal">http://www.veldrin.kiev.ua/club-members/11-internal/98-tetan-personal</a></p>]]></description>
+			<category>Новости</category>
+			<pubDate>Sun, 08 Feb 2015 18:13:04 +0000</pubDate>
+		</item>
+		<item>
+			<title>Перенос сайта завершен!</title>
+			<link>https://veldrin.pp.ua/index.php/maidan/96-transaction-ended</link>
+			<guid isPermaLink="true">https://veldrin.pp.ua/index.php/maidan/96-transaction-ended</guid>
+			<description><![CDATA[<p>Сегодня был наконец-то полностью завершен перенос старого сайта на новый движок, допилен логотип и убраны основные баги. Новый сайт работоспособен примерно на 95%, мелкие шероховаточти будут устраняться по мере выявления.</p>
+<p>С переездом нас! :)</p>
+<p>Также были обновлены личные страницы членов клуба, теперь там есть наши новые Воины :)</p>]]></description>
+			<category>Новости</category>
+			<pubDate>Mon, 02 Jun 2014 16:21:59 +0000</pubDate>
+		</item>
+		<item>
+			<title>Новый сайт!</title>
+			<link>https://veldrin.pp.ua/index.php/maidan/1-2014-05-12-19-49-07</link>
+			<guid isPermaLink="true">https://veldrin.pp.ua/index.php/maidan/1-2014-05-12-19-49-07</guid>
+			<description><![CDATA[<p>Новый сайт вылупился из архива и постепенно обрастает мясом и статьями :)</p>
+<p>Поскольку старый сайт был частично взломан и заражен вирусом, все статьи будут переноситься вручную, так что миграция будет долгой, но правильной :) Лишний хлам будет удален, останется только нужное и важное, как и положено клубному сайту :)</p>]]></description>
+			<category>Новости</category>
+			<pubDate>Mon, 12 May 2014 16:49:07 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

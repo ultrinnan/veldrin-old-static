@@ -1,0 +1,1 @@
+__jQuery__("#sigplus_98604d9eff65006495c67d8e4c5e9807").sigplusLinkage([["\/images\/hollofglory\/kinzal.jpg","\/cache\/preview\/b7d483aa725cee1c38f4f1e1c9e46e3f.jpg",200,56,"\/cache\/thumbs\/4c0dc5b94a1e496eb3798c5f2dff6760.jpg","","","",null]],"boxplus-sigplus_98604d9eff65006495c67d8e4c5e9807",0,false,"","");

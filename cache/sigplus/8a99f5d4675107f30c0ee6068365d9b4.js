@@ -1,0 +1,1 @@
+__jQuery__("#sigplus_55e0e9493e21ccebd3a94231c712e58b").sigplusLinkage([["\/images\/oruzh\/mask\/mask3.jpg","\/cache\/preview\/0e6229f8cfb61a5371f40dd165ea41fe.jpg",200,146,"\/cache\/thumbs\/721e16288ff9f2960a742f610def2ee3.jpg","","","",null]],"boxplus-sigplus_55e0e9493e21ccebd3a94231c712e58b",0,false,"","");

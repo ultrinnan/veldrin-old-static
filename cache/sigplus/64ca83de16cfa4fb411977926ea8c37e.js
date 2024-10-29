@@ -1,0 +1,1 @@
+__jQuery__("#sigplus_0c974236b848737d506c90b9c227fcb4").sigplusLinkage([["\/images\/oruzh\/arrow\/1.jpg","\/cache\/preview\/468a7904f9d3c421424ca9af3bbd3e91.jpg",200,83,"\/cache\/thumbs\/c6bd6ea9314dc9b2914f6a3924f492f6.jpg","","","",null]],"boxplus-sigplus_0c974236b848737d506c90b9c227fcb4",0,false,"","");
